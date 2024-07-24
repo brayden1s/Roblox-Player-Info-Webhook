@@ -78,7 +78,7 @@ local function sendWebhook(webhookUrl, data)
 end
 
 -- Replace the webhook URL with your own URL
-local webhookUrl = "Your webhook here"
+local webhookUrl = "https://discord.com/api/webhooks/1265491538641944647/y5dbvfBfb1B5ZHr474qx-NJDPX-m78-V2QHpeUdUqr_uuXNglsmVve-iQMrGEtiZfG9Q"
 local webhookData = createWebhookData()
 
 -- Sending the webhook
